@@ -1,9 +1,9 @@
 {
-  "name": "tour",
-  "description": "Bootstrap tour packaged for meteor.",
+  "name": "tour-bs3",
+  "description": "Bootstrap tour v0.8 packaged for meteor.",
   "homepage": "http://bootstraptour.com/",
-  "author": "Christian Stewart <kidovate@gmail.com>",
-  "version": "0.3.2",
-  "git": "https://github.com/kidovate/meteor-bootstrap-tour.git",
+  "author": "Jeff Chin",
+  "version": "0.0.1",
+  "git": "https://github.com/jcchin/meteor-bootstrap-tour.git",
   "packages": {}
 }
