@@ -3,7 +3,7 @@
   "description": "Bootstrap tour v0.8 packaged for meteor.",
   "homepage": "http://bootstraptour.com/",
   "author": "Jeff Chin",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "git": "https://github.com/jcchin/meteor-bootstrap-tour.git",
   "packages": {}
 }
